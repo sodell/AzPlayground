@@ -8,3 +8,7 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 * Create OAuth page in Azure for Auth Code + PKCE
 * Support Azure AD as IDP for admins
 * Support Azure AD B2C for consumer authentication via appropved IDPs (Azure AD, Google, etc.)
+
+## Initial plan for authorization
+
+* Create groups/roles with AAD
