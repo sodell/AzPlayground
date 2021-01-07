@@ -14,3 +14,7 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 ## Initial plan for authorization
 
 * Create groups/roles with AAD
+
+## Learning Log
+
+1/6/2021 - Played around in Azure with tenants, subscriptions, resource groups, etc.
