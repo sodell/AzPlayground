@@ -18,3 +18,6 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 ## Learning Log
 
 1/6/2021 - Played around in Azure with tenants, subscriptions, resource groups, etc.
+1/7/2021 - Dove into methods of authentication with AD Connect - Federation and Pass-Through
+           Pass-Through will take the u/p and pass them onto AD while optionally storing pw hash in azure ad
+           Federation - u/p skips Azure and goes straight to AD
