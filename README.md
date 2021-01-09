@@ -21,3 +21,6 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 1/7/2021 - Dove into methods of authentication with AD Connect - Federation and Pass-Through
            Pass-Through will take the u/p and pass them onto AD while optionally storing pw hash in azure ad
            Federation - u/p skips Azure and goes straight to AD
+1/8/2021 - Learning about SSO - There is single-sign on and seamless sign-on. Both have identical end user
+           experience but operate differently. Same sign-on is a different experience in which the same pw
+           will work across services but all of them individually prompt for the password
