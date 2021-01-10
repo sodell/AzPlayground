@@ -24,3 +24,6 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 1/8/2021 - Learning about SSO - There is single-sign on and seamless sign-on. Both have identical end user
            experience but operate differently. Same sign-on is a different experience in which the same pw
            will work across services but all of them individually prompt for the password
+1/9/2021 - Learned a lot of loose ends. Dove into enabling different methods of MFA and passwordless authentication.
+           Focused on something you know, have, and are. Also dove deeper into conditional access and how VPN can play
+           into that as well.
