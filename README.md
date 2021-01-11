@@ -1,4 +1,4 @@
-# AzPlayground
+#a AzPlayground
 Playground for azure
 
 ## Initial plan for authentication
@@ -27,3 +27,5 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 1/9/2021 - Learned a lot of loose ends. Dove into enabling different methods of MFA and passwordless authentication.
            Focused on something you know, have, and are. Also dove deeper into conditional access and how VPN can play
            into that as well.
+1/10/2021 - Dove into OIDC grant types - specifically ones supported by MSAL, which used to not support
+            Authorization Code. It does now have support for that and all SPA applications should be using it.
