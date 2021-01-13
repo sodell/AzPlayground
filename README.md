@@ -30,3 +30,4 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 1/10/2021 - Dove into OIDC grant types - specifically ones supported by MSAL, which used to not support
             Authorization Code. It does now have support for that and all SPA applications should be using it.
 1/11/2021 - Diving into understanding Tenants better and how the apply to accounts/app registrations, etc.
+1/12/2021 - Started authorization course. Basic auth schemes and course vs fine grained auth. Also Deep dive into OAuth.
