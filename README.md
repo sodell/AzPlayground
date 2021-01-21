@@ -32,3 +32,4 @@ With basic Angular app scaffolded, authentication will be put in place as follow
 1/11/2021 - Diving into understanding Tenants better and how the apply to accounts/app registrations, etc.
 1/12/2021 - Started authorization course. Basic auth schemes and course vs fine grained auth. Also Deep dive into OAuth.
 1/19/2021 - Deep dive into AAD Roles, Identity Protection, and Conditional Access. All P2 level services unlikely to use much.
+1/20/2021 - Diving into use of key vault - Keys, Secrets and Certificates. Don't need to store these in source code - thats bad.
